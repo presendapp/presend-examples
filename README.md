@@ -28,7 +28,7 @@ A free 40-endpoint security/utility API and an MCP server, plus 48 free browser-
 - **API docs**: https://presend.pages.dev/api
 - **OpenAPI spec**: https://presend.pages.dev/openapi.json
 - **MCP server**: https://presend.pages.dev/mcp
-- **Main repo**: https://github.com/presendapp/presend
+- **Main repo**: https://github.com/presendapp/presend-source
 
 The endpoint used in every example here, `maintainer-change-check`, flags an npm package whose publisher changed after a long period of dormancy -- the pattern behind the `event-stream` compromise (2018). It cannot detect a hijacked existing account (`ua-parser-js`) or a malicious release by the original maintainer (`colors.js`).
 
