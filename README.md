@@ -21,9 +21,13 @@ pip install -r requirements.txt
 python example.py
 ```
 
+## For teams
+
+We are testing a paid offer for teams: the same dependency checks on every pull request that changes a dependency and for AI coding agents before they install a package, with false-positive rates measured and published. Nothing is for sale yet. If your team would use it, [join the waitlist](https://presend.pages.dev/teams).
+
 ## What is Presend?
 
-A free 40-endpoint security/utility API and an MCP server, plus 48 free browser-based file tools. No signup, no API key.
+A free security/utility API and an MCP server, plus 48 free browser-based file tools. No signup, no API key.
 
 - **API docs**: https://presend.pages.dev/api
 - **OpenAPI spec**: https://presend.pages.dev/openapi.json
